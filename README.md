@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, I am a Systems Engineer. My interest in computer systems and networks is the key factor that drives my career. I can provide solutions to the IT needs of businesses of different sizes by performing tasks such as configuration, upgrades, maintenance and troubleshooting. I have experience with Windows and Linux operating systems, network management, virtualization and cloud technologies. I continuously improve my communication skills and problem solving abilities. I am open to innovations and follow the developments in the industry and learn new technologies to better serve customers. I enjoy participating in trainings and certification programs. I have a flexible and collaborative nature that is compatible with teamwork. My goal is to become an expert system engineer in this field. 👋
 
 <!--
 **resulersurer/resulersurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
